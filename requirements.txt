@@ -2,4 +2,4 @@
 mlflow
 pandas
 numpy
-pyro-ppl==1.6.0
+pyro-ppl==1.5.2
